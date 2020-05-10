@@ -1,0 +1,12 @@
+C:\Users\egora\Desktop\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\egora\Desktop\Задание2\bin\Debug\Задание2.exe
+C:\Users\egora\Desktop\Задание2\bin\Debug\Задание2.pdb
+C:\Users\egora\Desktop\Задание2\obj\Debug\Задание2.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Задание2\obj\Debug\Задание2.exe
+C:\Users\egora\Desktop\Задание2\obj\Debug\Задание2.pdb
+C:\Users\egora\Desktop\Консоль\bin\Debug\Задание2.exe.config
+C:\Users\egora\Desktop\Консоль\bin\Debug\Задание2.exe
+C:\Users\egora\Desktop\Консоль\bin\Debug\Задание2.pdb
+C:\Users\egora\Desktop\Консоль\obj\Debug\Задание2.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Консоль\obj\Debug\Задание2.exe
+C:\Users\egora\Desktop\Консоль\obj\Debug\Задание2.pdb
